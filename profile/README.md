@@ -2,3 +2,9 @@
 <h1 align="center">petpet</h1>
 
 <p align="center">Welcome to petpet! This was made as a small project and not ment to be taken seriously as a daily driver.</p>
+
+---
+# What is this?
+This is a fun project made between [n1d3v](https://github.com/n1d3v) and [TrulyEqilia](https://github.com/trulyeqilia) meant for fun.
+
+We don't plan to make this good, ever. If you daily drive this, congrats.
